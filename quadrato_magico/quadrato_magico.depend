@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580223916 source:c:\users\15-k112\desktop\quadrato_magico\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+

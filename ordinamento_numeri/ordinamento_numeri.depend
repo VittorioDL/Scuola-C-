@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573572199 source:c:\users\15-k112\desktop\ordinamento_numeri\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+

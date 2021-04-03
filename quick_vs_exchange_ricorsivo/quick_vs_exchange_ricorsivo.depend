@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581960219 source:c:\users\15-k112\desktop\quick_vs_exchange_ricorsivo\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<chrono>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586516055 source:c:\users\15-k112\desktop\ricerca_array_stringhe\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<string.h>
+

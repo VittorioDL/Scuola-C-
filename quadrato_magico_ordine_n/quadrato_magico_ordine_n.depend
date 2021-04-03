@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580485561 source:c:\users\15-k112\desktop\quadrato_magico_ordine_n\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+

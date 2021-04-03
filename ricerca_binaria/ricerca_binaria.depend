@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578564189 source:/home/stud3ai/Scrivania/ricerca_binaria/main.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+	<ctime>
+
