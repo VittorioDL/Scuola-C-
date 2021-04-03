@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582158832 source:c:\users\15-k112\desktop\riduzione_pixel\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+

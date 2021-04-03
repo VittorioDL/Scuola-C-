@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576507186 source:c:\users\15-k112\desktop\selezione_valori_pari\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+

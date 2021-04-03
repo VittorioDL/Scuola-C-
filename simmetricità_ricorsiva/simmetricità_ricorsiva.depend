@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581865096 source:c:\users\15-k112\desktop\simmetricità_ricorsiva\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+

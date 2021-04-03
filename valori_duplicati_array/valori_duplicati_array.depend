@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576594813 source:c:\users\15-k112\desktop\valori_duplicati_array\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
