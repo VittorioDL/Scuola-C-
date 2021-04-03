@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588006778 source:c:\users\15-k112\desktop\elenco_libri\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+

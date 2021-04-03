@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1579130849 source:c:\users\15-k112\desktop\elaborazione_temperature_mensili\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<cmath>
+

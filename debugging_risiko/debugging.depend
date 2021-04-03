@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574094755 source:c:\users\15-k112\desktop\debugging\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
